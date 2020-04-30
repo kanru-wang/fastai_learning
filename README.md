@@ -14,3 +14,4 @@ The 3rd edition of FastAI's Practical Deep Learning for Coders course. See the `
 - [Image quality restoration](nbs/dl1/lesson7-superres-gan.ipynb)
 
 ## Others
+- [Dissecting data_block, the data preparation API](nbs/dl2/08_data_block.ipynb)
