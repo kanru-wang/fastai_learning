@@ -8,7 +8,7 @@ The 3rd edition of FastAI's Practical Deep Learning for Coders course. See the `
 - [Data augmentation examples 1](nbs/dl2/introduction-to-image-augmentation-using-fastai.ipynb)
 - [Data augmentation examples 2](nbs/dl2/10_augmentation.ipynb)
 
-## RNN
+## RNN and Transformer
 - [IMDB classification](nbs/dl1/lesson3-imdb.ipynb)
 
 ## GAN
